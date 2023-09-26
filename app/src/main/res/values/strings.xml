@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Presensi</string>
+    <array name="keterangan">
+        <item>Hadir tepat waktu</item>
+        <item>Sakit</item>
+        <item>Terlambat</item>
+        <item>Izin</item>
+    </array>
+    <array name="months">
+        <item>Januari</item>
+        <item>Februari</item>
+        <item>Maret</item>
+        <item>April</item>
+        <item>Mei</item>
+        <item>Juni</item>
+        <item>Juli</item>
+        <item>Agustus</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>Desember</item>
+    </array>
+</resources>
